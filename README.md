@@ -8,3 +8,7 @@ Java Web (Back-end) com o CRUD completo
 * JSP
 * HTML CSS
 * MYSQL
+
+# Java 
+**No Projeto Utilizamos uma Class Controladora que controla tudas as rodas e requisição e respostas e jsp para poder passar informação do Back-end para o Front-End**
+
